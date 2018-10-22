@@ -1,0 +1,21 @@
+(***************************************************************************************************************)
+(******                  This is an extension file to incluse the Type II seesaw to the SM.               ******)
+(******                                                                                                   ******)
+(******     Authors: E. A. Sato                                                                           ******)
+(******                                                                                                   ******)
+(****** To be used with the SM implementation by N. Christensen, C. Duhr, B. Fuks                         ******)
+(***************************************************************************************************************)
+
+(* ************************** *)
+(* *****  Information   ***** *)
+(* ************************** *)
+M$ModelName = "Seesaw Type II";
+
+M$Information = {
+  Authors      -> {"E. A. Sato"},
+  Version      -> "1.0,
+  Date         -> "22. 10. 2018",
+  Institutions -> {"University of Campinas (Unicamp)"},
+  Emails       -> {"ea.sato1@gmail.com"},
+  URLs         -> "http://feynrules.phys.ucl.ac.be/view/Main/StandardModel"
+};
